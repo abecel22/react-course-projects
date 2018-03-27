@@ -1,6 +1,8 @@
-@import './base/_settings.scss';
+@import './base/settings';
 @import './base/base';
-@import './components/_button.scss';
-@import './components/_container.scss';
+@import './components/add-option';
+@import './components/button';
+@import './components/container';
 @import './components/header';
-@import './components/_widget.scss';
+@import './components/option';
+@import './components/widget';
